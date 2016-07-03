@@ -1,0 +1,1 @@
+string_to_list("program x local x, y begin while x <> -y do x := 3 done end", X), parse(X, Y).

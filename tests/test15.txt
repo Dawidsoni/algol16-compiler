@@ -1,0 +1,2 @@
+
+string_to_list("program x local x begin x := 3 + (3 - 3) end", X), parse(X, Y).

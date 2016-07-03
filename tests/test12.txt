@@ -1,0 +1,2 @@
+
+string_to_list("program x local x procedure f (value x, y) local xx begin xx := 1 end begin x := 2 + f (2, 3) end", X), parse(X, Y).

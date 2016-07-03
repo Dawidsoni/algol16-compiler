@@ -1,0 +1,1 @@
+string_to_list("program x local x begin read x ; write x * 2 + 3 div 4 end", X), parse(X, Y).

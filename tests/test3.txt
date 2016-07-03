@@ -1,0 +1,3 @@
+string_to_list("program xxX__321X_3 local x, y local z begin x := -11; y := -22 end", X), parse(X, Y).
+
+

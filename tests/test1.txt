@@ -1,0 +1,2 @@
+string_to_list("program Suma local x, y begin read x; read y; write x + y * x end", X), algol16(X, Y).
+

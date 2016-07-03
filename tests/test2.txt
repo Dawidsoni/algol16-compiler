@@ -1,0 +1,2 @@
+string_to_list("program Suma \t\n \t (*  asdasd asd asda \t \n \t *)(**) (* AA_@ *) \t \n local x begin x := 11 end", X), parse(X, Y).
+

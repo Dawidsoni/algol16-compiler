@@ -1,0 +1,2 @@
+
+string_to_list("program x local x begin while x < y or x > y do x := 3 done end", X), parse(X, Y).
